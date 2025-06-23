@@ -15,4 +15,4 @@ This project is part of my advanced networking coursework at Wintec. I designed 
 
 ## 📎 Files:
 -  Packet Tracer file
--  Logical network layout Picture
+-  Logical network layout Picture(Topology.png)
